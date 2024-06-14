@@ -5,7 +5,8 @@ This series of projects was created for the [freeCodeCamp](https://www.freecodec
 ## Projects
 **Celestial Bodies Database**
 - Contains information on a selection of galaxies, stars, planets, moons, and asteroids.
-- [universe.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Celestial%20Bodies%20Database/universe.sql) dump file for recreating the database. 
+- [universe.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Celestial%20Bodies%20Database/universe.sql) dump file for recreating the database.
+
 **World Cup Database**
 - Contains info on recent World Cup games.
 - [worldcup.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/World%20Cup%20Database/worldcup.sql) dump file for recreating the database.
