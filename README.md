@@ -12,3 +12,8 @@ This series of projects was created for the [freeCodeCamp](https://www.freecodec
 - [worldcup.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/World%20Cup%20Database/worldcup.sql) dump file for recreating the database.
 - [insert_data.sh](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/World%20Cup%20Database/insert_data.sh) script inserts game data into the database.
 - [queries.sh](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/World%20Cup%20Database/queries.sh) script queries for various info from the database.
+
+**Salon Appointment Scheduler**
+- CLI app that allows users to schedule appointments for various salon services.
+- [salon.sh](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Salon%20Appointment%20Scheduler/salon.sh) app schedules appointments for customers.
+- [salon.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Salon%20Appointment%20Scheduler/salon.sql) dump file for recreating the database.
