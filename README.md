@@ -22,3 +22,8 @@ This series of projects was created for the [freeCodeCamp](https://www.freecodec
 - A Periodic Table lookup program.
 - [element.sh](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Periodic%20Table%20Database/element.sh) script allows users to lookup info for elements by inputting an atomic number, symbol, or name.
 - [periodic_table.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Periodic%20Table%20Database/periodic_table.sql) dump file for recreating the database.
+
+**Number Guessing Game**
+- A command line game where users try to guess a random number between 1 & 1000.
+- [number_guess.sh](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Number%20Guessing%20Game/number_guess.sh) game script.
+- [number_guess.sql](https://github.com/austin-weeks/fCC-Relational-Database-Projects/blob/main/Number%20Guessing%20Game/number_guess.sql) dump file for recreating the user database.
